@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+{% block content %}
+	<h5>Air Quailty Index</h5>
+	<ul class="list-group list-group-flush">
+		{% for item in prediction %}
+			<li style="font-size:22px;" class="list-group-item">{{ "%.3f"|format(item)  }}</li>
+		{% endfor %}
+	</ul>
+	<br>
+	<form action="{{ url_for('home') }}">
+		<input class="btn btn-info" type="submit" value="Make Another Prediction" >
+	</form>	
+{% endblock content %}
