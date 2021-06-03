@@ -4,8 +4,6 @@
   <img width="400" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
 </p>
 
- # Data Collection
-Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here we can select the which country's data and state in that country But this data does not contain the PM 2.5 value also, this value can be getting from "hjrferjfkjerfkjerfkjerkj". So, this data set contains the eight independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5.
  
  # How to run into the local computer
  1. open the terminal
@@ -19,6 +17,9 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
  # Demo of the app: 
  
  ### APP: https://air-quality-index-predictio.herokuapp.com/
+ 
+ <h1 align="center"> Air Quality index prediction using Extra tree classifier and App built with Flask Application</h1>
+ 
  
  #### Please Enter the value & clisk the predict button
  <p float="left">
@@ -62,3 +63,14 @@ MSE: 2440.952402192909
 RMSE: 49.405995609773
 
 ## By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
+
+# 📁 Data Collection
+Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
+
+The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) 
+
+This dataset consists of 4095 images belonging to two classes:
+
+with_mask: 2165 images
+without_mask: 1930 images
+The images used were real images of faces wearing masks. The images were collected from the following sources:
