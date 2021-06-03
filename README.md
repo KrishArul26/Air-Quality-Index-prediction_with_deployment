@@ -19,9 +19,10 @@
 </p>
  
 ### 📁 Data Collection
-Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
 
-The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
+* Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
+
+* The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
 
 ### 🔑 Prerequisites
 All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
@@ -40,23 +41,23 @@ cd End-to-End-Deployment-Air-Quality-Index-prediction
 
 * pip install virtualenv
 
-virtualenv AQI
+* virtualenv AQI
 
-AQI\Scripts\activate
+* AQI\Scripts\activate
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 ### 💡 Working
 
 Open terminal. Go into the cloned project directory and type the following command:
 
-$ python app.py
+* python app.py
 
 ### 🔑 Results 
 
-For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied.By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
+* For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied.By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
 
 ### Linear Regressor: [Open In Colab](https://colab.research.google.com/drive/1NcUmCqjKPRPVkMVy8a4XpSckJQtf8Jbl)
 
