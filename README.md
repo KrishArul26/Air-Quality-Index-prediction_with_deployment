@@ -39,6 +39,7 @@ cd End-to-End-Deployment-Air-Quality-Index-prediction
 3. Create a Python virtual environment named 'AQI' and activate it
 
 | ......................................|
+
 |    pip install virtualenv             |
 
 virtualenv AQI
