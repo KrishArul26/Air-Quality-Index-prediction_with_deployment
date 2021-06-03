@@ -47,8 +47,10 @@ AQI\Scripts\activate
 pip install -r requirements.txt
 
 # 💡 Working
+
 Open terminal. Go into the cloned project directory and type the following command:
-python app.py
+
+$ python app.py
 
 # 🔑 Results 
 
@@ -74,7 +76,7 @@ MSE: 3277.2711086212435
 
 RMSE: 57.24745504056266
 
-# Extra tree regressor: [Open In Colab](https://colab.research.google.com/drive/1dLHFSKFgN21r3mhxcD_KK1BKPPlj-eyk)
+### Extra tree regressor: [Open In Colab](https://colab.research.google.com/drive/1dLHFSKFgN21r3mhxcD_KK1BKPPlj-eyk)
 
 ### Evaluation Matrix
 
@@ -84,7 +86,7 @@ MSE: 1185.3475699794517
 
 RMSE: 34.4288769781916
 
-# Decission tree regressor: [Open In Colab](https://colab.research.google.com/drive/1AiufkqPVvz1lZZMrZCfQTi6z5XPbzcrP) 
+### Decission tree regressor: [Open In Colab](https://colab.research.google.com/drive/1AiufkqPVvz1lZZMrZCfQTi6z5XPbzcrP) 
 
 ### Evaluation Matrix
 
@@ -94,6 +96,6 @@ MSE: 2440.952402192909
 
 RMSE: 49.405995609773
 
-👏 And it's done!
+# 👏 And it's done!
 
 Feel free to mail me for any doubts/query ✉️ ragavan.arul26@gmail.com
