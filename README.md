@@ -2,15 +2,13 @@
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
-</p>
-#Discription 
+</p> 
 
- 
  ### Demo of the app: 
  
  If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
  
- <h1 align="center"> Air Quality index prediction using Extra tree classifier and App built with Flask Application</h1>
+ <h1 align="center"> Air Quality index prediction using Extra tree classifier</h1>
  
  ### Please Enter the value & clisk the predict button
  
