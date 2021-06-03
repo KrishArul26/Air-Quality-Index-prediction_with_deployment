@@ -23,12 +23,13 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
 
 The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
 
-# 🔑 Prerequisites
+### 🔑 Prerequisites
 All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
 
-# 🚀  Installation
+### 🚀 Installation
 
 1. Clone the repo
+
 git clone https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git
 
 2. Change your directory to the cloned repo
@@ -44,15 +45,16 @@ virtualenv AQI
 AQI\Scripts\activate
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+
 pip install -r requirements.txt
 
-# 💡 Working
+### 💡 Working
 
 Open terminal. Go into the cloned project directory and type the following command:
 
 $ python app.py
 
-# 🔑 Results 
+### 🔑 Results 
 
 For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied.By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
 
@@ -96,6 +98,6 @@ MSE: 2440.952402192909
 
 RMSE: 49.405995609773
 
-# 👏 And it's done!
+### 👏 And it's done!
 
 Feel free to mail me for any doubts/query ✉️ ragavan.arul26@gmail.com
