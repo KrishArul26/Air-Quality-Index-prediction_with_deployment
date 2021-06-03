@@ -61,6 +61,10 @@ For this project Support vector regressor(SVR), linear regressor, Extra tree reg
 ### Linear Regressor: [Open In Colab](https://colab.research.google.com/drive/1NcUmCqjKPRPVkMVy8a4XpSckJQtf8Jbl)
 
 ### Evaluation Matrix
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
  
 MAE: 43.50537218470877
 
