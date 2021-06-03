@@ -16,7 +16,7 @@
  
  # Demo of the app: 
  
- ### APP: https://air-quality-index-predictio.herokuapp.com/
+ ### If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
  
  <h1 align="center"> Air Quality index prediction using Extra tree classifier and App built with Flask Application</h1>
  
