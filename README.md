@@ -16,7 +16,10 @@
  
  # Demo of the app: 
  
- ### If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
+ ### If wanted to see App Please click <p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/74568334/120635100-5cf4ef00-c46c-11eb-8dad-a917eca4962a.png">
+</p> [here](https://air-quality-index-predictio.herokuapp.com/)
+ 
  
  <h1 align="center"> Air Quality index prediction using Extra tree classifier and App built with Flask Application</h1>
  
