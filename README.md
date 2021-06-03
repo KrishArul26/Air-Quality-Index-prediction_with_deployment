@@ -3,23 +3,12 @@
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
 </p>
+#Discription 
 
- 
- # How to run into the local computer
- 1. open the terminal
- 
- 2. Create the virtual environmental
- 
- 3. pip install requirements.txt
- 
- 4. copy the IP address & paste it into the browser
  
  # Demo of the app: 
  
- ### If wanted to see App Please click <p align="center">
-  <img width="100" src="https://user-images.githubusercontent.com/74568334/120635100-5cf4ef00-c46c-11eb-8dad-a917eca4962a.png">
-</p> [here](https://air-quality-index-predictio.herokuapp.com/)
- 
+ ### If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
  
  <h1 align="center"> Air Quality index prediction using Extra tree classifier and App built with Flask Application</h1>
  
@@ -33,9 +22,39 @@
   <img src="https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="450" />
 </p>
  
-## For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied 
-### Linear Regressor Evaluation Matrix
 
+## By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
+
+# 📁 Data Collection
+Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
+
+The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
+
+# 🔑 Prerequisites
+All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
+
+
+# 🚀  Installation
+1. Clone the repo
+git clone [https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git]
+2. Change your directory to the cloned repo
+cd End-to-End-Deployment-Air-Quality-Index-prediction
+3. Create a Python virtual environment named 'AQI' and activate it
+pip install virtualenv
+virtualenv AQI
+AQI\Scripts\activate
+4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+pip install -r requirements.txt
+
+# 💡 Working
+Open terminal. Go into the cloned project directory and type the following command:
+python app.py
+
+# 🔑 Results 
+## For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied 
+
+### Linear Regressor Evaluation Matrix
+[Open In Colab](https://colab.research.google.com/drive/12h-d2312pKbSeoZdYr7koJR_gx_jbZ6w)
 MAE: 43.50537218470877
 
 MSE: 3335.4147056302113
@@ -65,15 +84,5 @@ MSE: 2440.952402192909
 
 RMSE: 49.405995609773
 
-## By tuned hyperparameter for all algorithms finally received these evaluation parameters MAE, MSE & RMSE. Among them, the Extra tree regressor has the lowest MAE values. So, for further analysis, I used an Extra tree regressor.
-
-# 📁 Data Collection
-Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
-
-The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) 
-
-This dataset consists of 4095 images belonging to two classes:
-
-with_mask: 2165 images
-without_mask: 1930 images
-The images used were real images of faces wearing masks. The images were collected from the following sources:
+👏 And it's done!
+Feel free to mail me for any doubts/query ✉️ ragavan.arul26@gmail.com
