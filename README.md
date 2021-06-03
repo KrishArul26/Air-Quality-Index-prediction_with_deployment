@@ -5,7 +5,7 @@
 </p>
 
  # Data Collection
-Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here we can select the which country's data and state in that country But this data does not contain the PM 2.5 value also, this value can be getting from "hjrferjfkjerfkjerfkjerkj". So, this data set contains the eight independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5
+Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here we can select the which country's data and state in that country But this data does not contain the PM 2.5 value also, this value can be getting from "hjrferjfkjerfkjerfkjerkj". So, this data set contains the eight independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5.
  
  # How to run into the local computer
  1. open the terminal
@@ -15,8 +15,10 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
  3. pip install requirements.txt
  
  4. copy the IP address & paste it into the browser
+ 
  # Demo of the app: 
- APP: https://air-quality-index-predictio.herokuapp.com/
+ 
+ ### APP: https://air-quality-index-predictio.herokuapp.com/
  
  #### Please Enter the value & clisk the predict button
  <p float="left">
@@ -26,8 +28,6 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="450" />
 </p>
-
-
  
 ## For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied 
 ### Linear Regressor Evaluation Matrix
