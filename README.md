@@ -15,7 +15,10 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
  3. pip install requirements.txt
  
  4. copy the IP address & paste it into the browser
- # Demo of the app: ## https://air-quality-index-predictio.herokuapp.com/
+ # Demo of the app: 
+ APP: ## https://air-quality-index-predictio.herokuapp.com/
+ 
+ <img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
  
  #### Please Enter the value & clisk the predict button
  <p float="left">
