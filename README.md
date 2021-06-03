@@ -71,31 +71,31 @@ For this project Support vector regressor(SVR), linear regressor, Extra tree reg
 
 ### Evaluation Matrix
 
-MAE: 40.77491768583136
-
-MSE: 3277.2711086212435
-
-RMSE: 57.24745504056266
+| Evaluation Parameter   | Value    |
+| -------------          | ---------|
+|       MAE              | 40.780   |
+|       MSE              | 3277.271 |
+|       RMSE             | 57.247   |
 
 ### Extra tree regressor: [Open In Colab](https://colab.research.google.com/drive/1dLHFSKFgN21r3mhxcD_KK1BKPPlj-eyk)
 
 ### Evaluation Matrix
 
-MAE: 19.168948833985706
-
-MSE: 1185.3475699794517
-
-RMSE: 34.4288769781916
+| Evaluation Parameter   | Value    |
+| -------------          | ---------|
+|       MAE              | 19.348   |
+|       MSE              | 1185.348 |
+|       RMSE             | 34.429   |
 
 ### Decission tree regressor: [Open In Colab](https://colab.research.google.com/drive/1AiufkqPVvz1lZZMrZCfQTi6z5XPbzcrP) 
 
 ### Evaluation Matrix
 
-MAE: 26.917567224759008
-
-MSE: 2440.952402192909
-
-RMSE: 49.405995609773
+| Evaluation Parameter   | Value    |
+| -------------          | ---------|
+|       MAE              | 26.92    |
+|       MSE              | 2440.952 |
+|       RMSE             | 49.406   |
 
 ### 👏 And it's done!
 
