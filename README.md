@@ -1,5 +1,5 @@
 <p align="center">
-    // # End-to-End--Deployment-Air-Quality-Index-prediction
+# End-to-End--Deployment-Air-Quality-Index-prediction
 </p>
 
 ![Air-Quality-Index-](https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg)
