@@ -6,7 +6,7 @@
 
  ### Demo of the app: 
  
- If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
+ * If wanted to see App Please click [here](https://air-quality-index-predictio.herokuapp.com/)
  
  ### Please Enter the value & clisk the predict button
  
@@ -25,17 +25,17 @@
 * The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
 
 ### 🔑 Prerequisites
-All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
+* All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
 
 ### 🚀 Installation
 
 1. Clone the repo
 
-git clone https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git
+* git clone https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git
 
 2. Change your directory to the cloned repo
 
-cd End-to-End-Deployment-Air-Quality-Index-prediction
+* cd End-to-End-Deployment-Air-Quality-Index-prediction
 
 3. Create a Python virtual environment named 'AQI' and activate it
 
@@ -51,7 +51,7 @@ cd End-to-End-Deployment-Air-Quality-Index-prediction
 
 ### 💡 Working
 
-Open terminal. Go into the cloned project directory and type the following command:
+1. Open terminal. Go into the cloned project directory and type the following command:
 
 * python app.py
 
