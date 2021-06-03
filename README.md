@@ -5,7 +5,7 @@
 </p>
 
  # Data Collection
-### Airquality data was colloected from the  "http://en.tutiempo.net/climate". So, Here we can select the which country's data and state in that country But this data does not contain the PM 2.5 value also, this value can be getting from "hjrferjfkjerfkjerfkjerkj". So, this data set contain the eight independent features such as Average annual temperature(AT),Annual average maximum temperature(TM),Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5
+##### Airquality data was colloected from the  "http://en.tutiempo.net/climate". So, Here we can select the which country's data and state in that country But this data does not contain the PM 2.5 value also, this value can be getting from "hjrferjfkjerfkjerfkjerkj". So, this data set contain the eight independent features such as Average annual temperature(AT),Annual average maximum temperature(TM),Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5
  
  # How to run into local computer
  ### open the terminal
