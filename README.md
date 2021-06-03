@@ -18,8 +18,12 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
  # Demo of the app: ## https://air-quality-index-predictio.herokuapp.com/
  
  #### Please Enter the value & clisk the predict button
- 
-![AQI_1](https://user-images.githubusercontent.com/74568334/120625928-709b5800-c462-11eb-8745-e847bf5cb661.png) ![AQI_2](https://user-images.githubusercontent.com/74568334/120625936-71cc8500-c462-11eb-908e-4be22049962e.png)  ![AQI_3](https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png)
+ <p float="left">
+  <img src="/https://user-images.githubusercontent.com/74568334/120625928-709b5800-c462-11eb-8745-e847bf5cb661.png" width="100" />
+  <img src="/https://user-images.githubusercontent.com/74568334/120625936-71cc8500-c462-11eb-908e-4be22049962e.png" width="100" /> 
+  <img src="/https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="100" />
+</p>
+
 
  
 ## For this project Support vector regressor(SVR), linear regressor, Extra tree regressor, decision tree regressor  and XGBoost regressor has  applied 
