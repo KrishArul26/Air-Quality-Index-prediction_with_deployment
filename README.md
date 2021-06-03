@@ -1,7 +1,7 @@
 <h1 align="center"> Air-Quality-Index-prediction- Using PM 2.5 value</h1>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
+  <img width="300" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
 </p> 
 
  ### Demo of the app: 
