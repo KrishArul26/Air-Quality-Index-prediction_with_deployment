@@ -19,9 +19,9 @@ Air quality data was collected from the  "http://en.tutiempo.net/climate". So, h
  
  #### Please Enter the value & clisk the predict button
  <p float="left">
-  <img src="/https://user-images.githubusercontent.com/74568334/120625928-709b5800-c462-11eb-8745-e847bf5cb661.png" width="100" />
-  <img src="/https://user-images.githubusercontent.com/74568334/120625936-71cc8500-c462-11eb-908e-4be22049962e.png" width="100" /> 
-  <img src="/https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="100" />
+  <img src="/https://user-images.githubusercontent.com/74568334/120625928-709b5800-c462-11eb-8745-e847bf5cb661.png" width="200" />
+  <img src="/https://user-images.githubusercontent.com/74568334/120625936-71cc8500-c462-11eb-908e-4be22049962e.png" width="200" /> 
+  <img src="/https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="200" />
 </p>
 
 
