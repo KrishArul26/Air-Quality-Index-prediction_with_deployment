@@ -1,7 +1,7 @@
 <h1 align="center"> End-to-End--Deployment-Air-Quality-Index-prediction</h1>
 
 <p align="center">
-  <img width="200" src="![Air-Quality-Index-](https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg)">
+  <img width="200" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
 </p>
 
  
