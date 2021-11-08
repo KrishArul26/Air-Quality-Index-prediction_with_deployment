@@ -111,6 +111,15 @@ python app.py
 |       MSE              | 2440.952 |
 |       RMSE             | 49.406   |
 
+### 🔑 Compatision 
+
+      |                            | Evaluation Parameter   | Value    |
+      |                            |------------------------| ---------|
+      |  Linear Regressor          |       MAE              | 43.505   |
+      |                            |       MSE              | 3335.414 |
+      |                            |       RMSE             | 57.753   |
+
+
 ### 👏 And it's done!
 
 Feel free to mail me for any doubts/query ✉️ ragavan.arul26@gmail.com
