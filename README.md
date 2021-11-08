@@ -32,30 +32,41 @@
 ### 🚀 Installation
 
 1. Clone the repo
+```
+git clone https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git
 
-* git clone https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction.git
+```
 
 2. Change your directory to the cloned repo
 
-* cd End-to-End-Deployment-Air-Quality-Index-prediction
+```
+cd End-to-End-Deployment-Air-Quality-Index-prediction
+```
 
 3. Create a Python virtual environment named 'AQI' and activate it
+
+```
 
 * pip install virtualenv
 
 * virtualenv AQI
 
 * AQI\Scripts\activate
+```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-* pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 ### 💡 Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 
-* python app.py
+```
+python app.py
+```
 
 ### 🔑 Results 
 
