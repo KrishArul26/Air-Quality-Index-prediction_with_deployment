@@ -1,5 +1,6 @@
 <h1 align="center"> Air-Quality-Index-prediction- Using PM 2.5 value</h1>
-<h3 align="left"> India is one of the leading countries in terms of high air pollution. Generally, the air pollution is rated by PM value or air quality index value. For my further analysis, I selected the PM-2.5 value to determine the air quality forecast, as well as the region of India-Bangalore. Moreover, data was collected the through web scraping with the help of Beautiful Soup.</h3>
+
+<p style= 'text-align: justify;'> India is one of the leading countries in terms of high air pollution. Generally, air pollution is assessed by PM value or air quality index value. For my further analysis, I have selected PM-2.5 value to determine the air quality prediction and India-Bangalore region. Also, the data was collected through web scraping with the help of Beautiful Soup.</p>
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/120612282-55761b80-c455-11eb-8b68-2afa01a0017e.jpg">
