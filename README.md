@@ -18,12 +18,58 @@ India is one of the higher air pollution country. Generally, air pollution is as
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74568334/120625922-6e38fe00-c462-11eb-96b4-431352a5ed91.png" width="450" />
 </p>
+
+<h2 align="center"> Technologies Used </h2>
+ 
+ ```
+ 1. IDE - Pycharm
+ 2. LSTM - As a classification Deep learning Model
+ 3. GPU - P-4000
+ 4. Google Colab - Text Analysis
+ 5. Flask- Rest API
+ 6. Postman - API Tester
+ 7. Gensim - Word2Vec embeddings
+ 
+ ```
+ 
  
 ### 📁 Data Collection
 
 * Air quality data was collected from the  "http://en.tutiempo.net/climate". So, here I selected the India- Bangalore'sregion & collected  the independent features such as Average annual temperature(AT), Annual average maximum temperature(TM), Average annual minimum temperature(Tm), Rain or snow precipitation total annual(PP), Annual average wind speed(V), Number of days with rain(RA), Number of days with snow(SN) and dependent feature as PM 2.5 values has been colected from the "dhewdhjwdhjw"
 
 * The dataset used can be downloaded [Here](https://raw.githubusercontent.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/main/Dataset/Airquality_index.csv) from the 2013 to 2018.
+
+<h3 align="left">Data Preprocessing</h3>
+ 
+Data Preprocessing of the raw data [Google Colab For EDA Vist, Here](https://github.com/KrishArul26/Air-Quality-Index-prediction_with_deployment/blob/main/ML_Applied_Word/PreProcess/AQI_linear_regressor.ipynb)  
+ 
+<p style= 'text-align: justify;'> 
+
+               1.	Remove Unnecessary Columns
+
+               2.	Feature Engineering Selection
+                    
+                                                  ```
+                                                  * Correlation Analysis
+  
+                                                  * Hnadling Out layer - Capping using Percentile method (Winsorization )
+                                                    
+                                                  * Feature Importances
+                                                  ```
+
+
+               3.	Finding The Null Values Present In The Dataset
+
+               
+               3.	Handle the NaN values
+  
+               6.	Missing Values Replace With Mean
+
+               8.	Dimensionality Reduction Using  PCA
+
+               9.	Remove Columns Which A Standard Deviation Of Zero
+
+</p>
 
 ### 🔑 Prerequisites
 * All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/End-to-End-Deployment-Air-Quality-Index-prediction/blob/main/requirements.txt)
