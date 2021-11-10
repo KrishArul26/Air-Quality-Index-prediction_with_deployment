@@ -23,12 +23,15 @@ India is one of the higher air pollution country. Generally, air pollution is as
  
  ```
  1. IDE - Pycharm
- 2. LSTM - As a classification Deep learning Model
- 3. GPU - P-4000
- 4. Google Colab - Text Analysis
- 5. Flask- Rest API
- 6. Postman - API Tester
- 7. Gensim - Word2Vec embeddings
+ 2. Linear Regression Model
+ 3. Ridge and Lasso Regression
+ 4. Support vector regressor(SVR)
+ 5. Extra tree regressor
+ 6. Decission tree regressor
+ 7. Google Colab - Trained ML model
+ 8. Flask- Rest API
+ 9. Postman - API Tester
+10. Heroku
  
  ```
  
@@ -49,14 +52,13 @@ Data Preprocessing of the raw data [Google Colab For EDA Vist, Here](https://git
 
                2.	Feature Engineering Selection
                     
-                                                  ```
+                                                  
                                                   * Correlation Analysis
   
                                                   * Hnadling Out layer - Capping using Percentile method (Winsorization )
                                                     
                                                   * Feature Importances
-                                                  ```
-
+                                                
 
                3.	Finding The Null Values Present In The Dataset
 
