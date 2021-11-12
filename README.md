@@ -94,11 +94,11 @@ cd End-to-End-Deployment-Air-Quality-Index-prediction
 
 ```
 
-* pip install virtualenv
+ pip install virtualenv
 
-* virtualenv AQI
+ virtualenv AQI
 
-* AQI\Scripts\activate
+ AQI\Scripts\activate
 ```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
